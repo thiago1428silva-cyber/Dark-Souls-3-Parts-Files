@@ -258,10 +258,10 @@
 650300	LG_M_1270	Hoslow's Greaves
 651000	HD_M_1275	Diallos's Mask
 652100	BD_M_1271	Hoslow's Armor (Altered)
-660000	HD_M_1280	Vagabond Knight Helm
-660100	BD_M_1280	Vagabond Knight Armor
-660200	AM_M_1280	Vagabond Knight Gauntlets
-660300	LG_M_1280	Vagabond Knight Greaves
+1500000	HD_M_1570	Knight Helm
+1500100	BD_M_1570	Knight Armor
+1500200	AM_M_1570	Knight Gauntlets
+1500300	LG_M_1570	Knight Greaves
 661100	BD_M_1281	Vagabond Knight Armor (Altered)
 670000	HD_M_1290	Blue Cloth Cowl
 670100	BD_M_1290	Blue Cloth Vest
